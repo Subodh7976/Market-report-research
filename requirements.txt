@@ -1,0 +1,5 @@
+llama-index
+markdown-pdf
+python-dotenv
+google-api-python-client
+bs4
